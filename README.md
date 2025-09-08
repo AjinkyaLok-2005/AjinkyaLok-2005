@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Hi👋, I am Ajinkya!<br>👯 I am 3rd yr Ai & DS student<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Machine Learning and its concepts<br>💬 Ask me about<br>⚡I try to remain Consistent<br>
-
+🔭 Hi👋, I am Ajinkya!<br>👯 I am 3rd yr Ai & DS student<br>🌱 I’m currently learning Machine Learning and its concepts<br>⚡I try to remain Consistent<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajinkyalokhande1105@gmail.com) 
